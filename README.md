@@ -1,7 +1,7 @@
 # 🧵 Thread in Java
 
 
-A Thread in Java is a unit of execution within a program. It allows multiple operations to run at the same time, which is known as multithreading. This improves performance and responsiveness, especially in applications that perform many tasks or handle multiple users. <br><br>
+A Thread in Java is a unit of execution within a program. It allows multiple operations to run at the same time, which is known as multithreading. This improves performance and responsiveness, especially in applications that perform many tasks or handle multiple users. <br>
 
 ✅ Why Use Threads? <br>
 - To perform multiple tasks simultaneously
@@ -11,7 +11,7 @@ A Thread in Java is a unit of execution within a program. It allows multiple ope
 🧰 How to Create Threads <br>
 Threads can be created in two main ways:
 - By extending the Thread class
-- By implementing the Runnable interface
+- By implementing the Runnable interface <br>
 Both methods allow you to define a set of instructions that the thread will execute when started.
 
 🔄 Thread Lifecycle <br>
